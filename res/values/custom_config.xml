@@ -25,7 +25,7 @@
     <integer name="config_fingerprintSensorLocation">0</integer>
 
     <!-- Whether dual band ap is supported -->
-    <bool name="is_dual_band_ap_supported">true</bool>
+    <bool name="is_dual_band_ap_supported">false</bool>
 
     <!-- Does the device allow for manual subscription provisioning? Only works for multi-sim devices,
          and currently depends on QC's proprietary telephony stack -->
